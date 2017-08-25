@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linLoading"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    >
+
+    <com.dingli.diandians.newProject.widget.BKToolbar
+        android:id="@+id/tbBKToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:showLeftImg="false"
+        app:titleTxt="@string/bottom_eye" />
+
+    <com.dingli.diandians.view.VerticalSwipeRefreshLayout
+        android:id="@+id/swipeRefreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/eyeRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:scrollbars="none"
+            />
+    </com.dingli.diandians.view.VerticalSwipeRefreshLayout>
+</LinearLayout>

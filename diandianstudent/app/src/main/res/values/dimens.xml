@@ -1,0 +1,86 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="calendar_item_order_day_size">3.5sp</dimen>
+    <dimen name="calendar_item_nonorder_day_size">5sp</dimen>
+
+
+    <dimen name="default_margin">15dp</dimen>
+    <dimen name="default_toolbar_height">48dp</dimen>
+    <dimen name="default_button_height">48dp</dimen>
+
+    <dimen name="default_main_bottom_textsize">10dp</dimen>
+    <dimen name="default_item_height_45">45dp</dimen>
+    <dimen name="default_item_height_42">42dp</dimen>
+
+    <!--字体大小-->
+    <dimen name="textsize_8">8dp</dimen>
+    <dimen name="textsize_9">9dp</dimen><!--注解说明-->
+    <dimen name="textsize_10">10dp</dimen><!--注解说明（数字）-->
+    <dimen name="textsize_11">11dp</dimen><!--小标题-->
+    <dimen name="textsize_12">12dp</dimen><!--文本内容，小标题（数字）-->
+    <dimen name="textsize_13">13dp</dimen><!--文本标题，文本内容（数字）-->
+    <dimen name="textsize_14">14dp</dimen><!--列表标题，文本标题（数字） -->
+    <dimen name="textsize_15">15dp</dimen><!--大标题，列表标题（数字）-->
+    <dimen name="textsize_16">16dp</dimen><!--大标题（数字）-->
+    <dimen name="textsize_17">17dp</dimen><!--页面标题-->
+    <dimen name="textsize_18">18dp</dimen><!--页面标题（数字）-->
+    <dimen name="textsize_19">19dp</dimen>
+    <dimen name="textsize_20">20dp</dimen>
+    <dimen name="textsize_21">21dp</dimen>
+    <dimen name="textsize_22">22dp</dimen>
+    <dimen name="textsize_23">23dp</dimen>
+    <dimen name="textsize_24">24dp</dimen>
+    <dimen name="textsize_25">25dp</dimen>
+    <dimen name="textsize_26">26dp</dimen>
+
+
+    <dimen name="default_margin_0">0dp</dimen>
+    <dimen name="default_margin_0_5">0.5dp</dimen>
+    <dimen name="default_margin_1">1dp</dimen>
+    <dimen name="default_margin_2">2dp</dimen>
+    <dimen name="default_margin_3">3dp</dimen>
+    <dimen name="default_margin_4">4dp</dimen>
+    <dimen name="default_margin_5">5dp</dimen>
+    <dimen name="default_margin_6">6dp</dimen>
+    <dimen name="default_margin_7">7dp</dimen>
+    <dimen name="default_margin_8">8dp</dimen>
+    <dimen name="default_margin_9">9dp</dimen>
+    <dimen name="default_main_bottom_height">48dp</dimen>
+    <dimen name="default_margin_10">10dp</dimen>
+    <dimen name="default_margin_11">11dp</dimen>
+    <dimen name="default_margin_11_5">11.5dp</dimen>
+    <dimen name="default_margin_12">12dp</dimen>
+    <dimen name="default_margin_12_5">12.5dp</dimen>
+    <dimen name="default_margin_13">13dp</dimen>
+    <dimen name="default_margin_14">14dp</dimen>
+    <dimen name="default_margin_15">15dp</dimen>
+    <dimen name="default_margin_16">16dp</dimen>
+    <dimen name="default_margin_16_5">16.5dp</dimen>
+    <dimen name="default_margin_18">18dp</dimen>
+    <dimen name="default_margin_20">20dp</dimen>
+    <dimen name="default_margin_21">21dp</dimen>
+    <dimen name="default_margin_22">22dp</dimen>
+    <dimen name="default_margin_23">23dp</dimen>
+    <dimen name="default_margin_24">24dp</dimen>
+    <dimen name="default_margin_25">24dp</dimen>
+    <dimen name="default_margin_26">26dp</dimen>
+    <dimen name="default_margin_28">28dp</dimen>
+    <dimen name="default_margin_30">30dp</dimen>
+    <dimen name="default_margin_29">29dp</dimen>
+    <dimen name="default_margin_33">33dp</dimen>
+    <dimen name="default_margin_34">34dp</dimen>
+    <dimen name="default_margin_35">35dp</dimen>
+    <dimen name="default_margin_44">44dp</dimen>
+    <dimen name="default_margin_43">43dp</dimen>
+    <dimen name="default_margin_44.5">44.5dp</dimen>
+    <dimen name="default_margin_46">46dp</dimen>
+    <dimen name="default_margin_48">48dp</dimen>
+    <dimen name="default_margin_50">50dp</dimen>
+    <dimen name="default_margin_54">54dp</dimen>
+    <dimen name="default_margin_60.5">60.5dp</dimen>
+    <dimen name="default_margin_72">72dp</dimen>
+    <dimen name="default_margin_80">80dp</dimen>
+    <dimen name="default_margin_140">140dp</dimen>
+</resources>

@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    >
+    <com.dingli.diandians.newProject.widget.BKToolbar
+        android:id="@+id/tbBKToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:showLeftImg="true"
+        app:titleTxt="@string/hrd" />
+    <LinearLayout
+        android:id="@+id/linLoading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.dingli.diandians.view.VerticalSwipeRefreshLayout
+            android:id="@+id/swipeRefreshLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            >
+            <com.dingli.diandians.newProject.view.BottomRecyclerView
+                android:id="@+id/eyeListRecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:scrollbars="none"
+                >
+            </com.dingli.diandians.newProject.view.BottomRecyclerView>
+        </com.dingli.diandians.view.VerticalSwipeRefreshLayout>
+    </LinearLayout>
+</LinearLayout>

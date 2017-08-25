@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/llinfori"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@color/qianblue"
+        android:visibility="gone">
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="14dp"
+            android:layout_gravity="center_vertical"
+            />
+        <TextView
+            android:id="@+id/tvcallroll"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="6"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:text="@string/information"
+            android:textColor="@color/bg_White"/>
+        <ImageView
+            android:id="@+id/ivying"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+    <com.dingli.diandians.view.VerticalSwipeRefreshLayout
+        android:id="@+id/slayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <include
+        layout="@layout/information_item"
+        />
+    </com.dingli.diandians.view.VerticalSwipeRefreshLayout>
+</LinearLayout>

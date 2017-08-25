@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:visibility="gone"
+    android:orientation="vertical">
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="86dp"
+         android:text="系统提示：请遵守中华人民共和国法律，文明发言，不恶性谩骂，不色情，不造谣"
+         android:layout_marginLeft="25dp"
+         android:lineSpacingExtra="10dp"
+         android:textColor="@color/qianblue"
+         android:textSize="@dimen/textsize_13"
+         android:paddingTop="19dp"
+         />
+     <View
+         android:layout_width="match_parent"
+         android:layout_height="1dp"
+         android:background="@color/background"
+         />
+</LinearLayout>

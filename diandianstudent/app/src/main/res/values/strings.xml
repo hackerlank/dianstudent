@@ -1,0 +1,313 @@
+<resources>
+    <string translatable="false" name="app_name">知新点点</string>
+    <string name="studentid" translatable="false">手机/邮箱/账号</string>
+    <string name="password" translatable="false">密码</string>
+    <string name="forgetpassword" translatable="false">忘记密码</string>
+    <string name="forgetpasswords" translatable="false">点击找回</string>
+    <string name="login" translatable="false">登录</string>
+    <string name="foundpassword" translatable="false">手机号找回密码</string>
+    <string name="sendword" translatable="false">获取验证码</string>
+    <string name="emailpassword" translatable="false">邮箱找回密码</string>
+    <string name="sendlink" translatable="false">发送链接</string>
+    <string name="liti" translatable="false">立即体验</string>
+    <string name="requred" translatable="false">确定</string>
+    <string name="alter" translatable="false">修改密码</string>
+    <string name="firstalter" translatable="false">账号与安全</string>
+    <string name="jujueyuanyi" translatable="false">拒绝原因:</string>
+    <string name="fistpage" translatable="false">首页</string>
+    <string name="fistpages" translatable="false">签到列表</string>
+    <string name="newpassword" translatable="false">新密码</string>
+    <string name="inputpassword" translatable="false">请再输入一次</string>
+    <string name="yaoqiu" translatable="false">6-16位数字或字母</string>
+    <string name="done" translatable="false">完成</string>
+    <string name="dones" translatable="false">确定</string>
+    <string name="doneren" translatable="false">确认</string>
+    <string name="donesd" translatable="false">立刻更新</string>
+    <string name="goset" translatable="false">设置</string>
+    <string name="nextmove" translatable="false">下一步</string>
+    <string name="donelogin" translatable="false">完成并登录</string>
+    <string name="today" translatable="false">Today</string>
+    <string name="blindphone" translatable="false">绑定手机</string>
+    <string name="helpcenter" translatable="false">帮助中心</string>
+    <string name="qingchuhuan" translatable="false">清除缓存</string>
+    <string name="guanyuzhi" translatable="false">关于知新点点</string>
+    <string name="faxianzuzi" translatable="false">发现最新版本</string>
+    <string name="blindemail" translatable="false">绑定邮箱</string>
+    <string name="outlogin" translatable="false">退出登录</string>
+    <string name="zhouyi" translatable="false">周一</string>
+    <string name="zhouer" translatable="false">周二</string>
+    <string name="zhousan" translatable="false">周三</string>
+    <string name="zhousi" translatable="false">周四</string>
+    <string name="zhouwu" translatable="false">周五</string>
+    <string name="zhouliu" translatable="false">周六</string>
+    <string name="zhouri" translatable="false">周日</string>
+    <string name="shouye" translatable="false">首页</string>
+    <string name="kebiao" translatable="false">课表</string>
+    <string name="xiaoxi" translatable="false">消息</string>
+    <string name="mine" translatable="false">我的</string>
+    <string name="qiandaotai" translatable="false">签到状态:</string>
+    <string name="woping" translatable="false">我的评价</string>
+    <string name="tijiao" translatable="false">提交</string>
+    <string name="tisou" translatable="false">提交所在位置</string>
+    <string name="fudaoyuan" translatable="false">辅导员点名</string>
+    <string name="incode" translatable="false">输入验证数字</string>
+    <string name="mineping" translatable="false">我的评价</string>
+    <string name="oldpassword" translatable="false">旧密码</string>
+    <string name="setting" translatable="false">设置</string>
+    <string name="absenteeism" translatable="false">旷课</string>
+    <string name="belate" translatable="false">迟到</string>
+    <string name="leaveearly" translatable="false">早退</string>
+    <string name="leave" translatable="false">请假</string>
+    <string name="benzhou" translatable="false">第一周</string>
+    <string name="inputphone" translatable="false">输入手机号码</string>
+    <string name="studentevaluate" translatable="false">学生评价</string>
+    <string name="dianming" translatable="false">点名</string>
+    <string name="date" translatable="false">日</string>
+    <string name="dates" translatable="false">期:</string>
+    <string name="jienum" translatable="false">节</string>
+    <string name="jienumd" translatable="false">节 数:</string>
+    <string name="jienums" translatable="false">数:</string>
+    <string name="time" translatable="false">时  间:</string>
+    <string name="times" translatable="false">时</string>
+    <string name="timed" translatable="false">间:</string>
+    <string name="location" translatable="false">地</string>
+    <string name="locationd" translatable="false">地 点:</string>
+    <string name="locations" translatable="false">点:</string>
+    <string name="laterstime" translatable="false">迟到时间:</string>
+    <string name="out" translatable="false">出勤率</string>
+    <string name="outyich" translatable="false">我的异常考勤记录</string>
+    <string name="surve" translatable="false">我的问卷调查</string>
+    <string name="outyichtitle" translatable="false">我的考勤记录</string>
+    <string name="outyichtitles" translatable="false">考勤记录详情</string>
+    <string name="wodqing" translatable="false">我的请假记录</string>
+    <string name="woqian" translatable="false">我的考勤记录</string>
+    <string name="weipingj" translatable="false">未评教课程</string>
+    <string name="pingnum" translatable="false">评分</string>
+    <string name="dione" translatable="false">第1周(本周)</string>
+    <string name="erzhou" translatable="false">第2周</string>
+    <string name="sanzhou" translatable="false">第3周</string>
+    <string name="sizhou" translatable="false">第4周</string>
+    <string name="wuzhou" translatable="false">第5周</string>
+    <string name="disix" translatable="false">第6周</string>
+    <string name="paizhao" translatable="false">拍照</string>
+    <string name="congxiang" translatable="false">从相册中选取</string>
+    <string name="quxiao" translatable="false">取消</string>
+    <string name="quxiaos" translatable="false">稍后再说</string>
+    <string name="hintshou" translatable="false">请输入手机号</string>
+    <string name="hintshous" translatable="false">手机号</string>
+    <string name="hintyan" translatable="false">请输入验证码</string>
+    <string name="hintyans" translatable="false">手机验证码</string>
+    <string name="hintjiu" translatable="false">请输入旧密码</string>
+    <string name="pingyu" translatable="false">评语</string>
+    <string translatable="false" name="send">获取验证码</string>
+    <string name="wuke" translatable="false">今天还没有签到记录哦</string>
+    <string name="wuyichang" translatable="false">无异常记录哦</string>
+    <string name="wushuju" translatable="false">没有数据</string>
+    <string name="huoqucuo" translatable="false">获取错误数据</string>
+    <string name="jieshi" translatable="false">截取图片失败</string>
+    <string name="wuchuqing" translatable="false">没有出勤记录了啊O(∩_∩)O~</string>
+    <string name="yi" translatable="false">一</string>
+    <string name="er" translatable="false">二</string>
+    <string name="san" translatable="false">三</string>
+    <string name="si" translatable="false">四</string>
+    <string name="wu" translatable="false">五</string>
+    <string name="liu" translatable="false">六</string>
+    <string name="ri" translatable="false">日</string>
+    <string name="fen" translatable="false">分</string>
+    <string name="xiqing" translatable="false">星期</string>
+    <string name="shoukong" translatable="false">手机号不能为空</string>
+    <string name="fagong" translatable="false">发送成功</string>
+    <string name="faban" translatable="false">发送失败</string>
+    <string name="fajucuo" translatable="false">发送数据错误</string>
+    <string name="lianbu" translatable="false">连不上服务器</string>
+    <string name="wangxi" translatable="false">请检查网络</string>
+    <string name="yankong" translatable="false">验证码不能为空</string>
+    <string name="chongfa" translatable="false">重新发送</string>
+    <string name="mikong" translatable="false">密码不能为空</string>
+    <string name="xinmi" translatable="false">新密码不能为空</string>
+    <string name="zaixinmi" translatable="false">再输入密码不能为空</string>
+    <string name="xiugong" translatable="false">修改成功</string>
+    <string name="xiuban" translatable="false">修改失败</string>
+    <string name="kuangke" translatable="false">旷课</string>
+    <string name="zaotui" translatable="false">早退</string>
+    <string name="chidao" translatable="false">迟到</string>
+    <string name="qingjia" translatable="false">请假</string>
+    <string name="yidao" translatable="false">已到</string>
+    <string name="weiqiandao" translatable="false">未签到</string>
+    <string name="banggong" translatable="false">绑定成功</string>
+    <string name="bangbai" translatable="false">绑定失败</string>
+    <string name="shanggong" translatable="false">上传成功</string>
+    <string name="yixin" translatable="false">一定要评星</string>
+    <string name="pingbai" translatable="false">评教失败</string>
+    <string name="pinggong" translatable="false">评教成功</string>
+    <string name="di" translatable="false">第</string>
+    <string name="zhou" translatable="false">周</string>
+    <string name="shubuyi" translatable="false">输入密码不一致</string>
+    <string name="zaian" translatable="false">再按一下 退出应用</string>
+    <string name="founds" translatable="false">班级通讯录</string>
+    <string name="contact" translatable="false">通讯录</string>
+    <string name="founda" translatable="false">联系人</string>
+    <string name="getjob" translatable="false">就业</string>
+    <string name="kaoshi" translatable="false">考试</string>
+    <string name="lianxi" translatable="false">练习</string>
+    <string name="qiandao" translatable="false">签到</string>
+    <string name="yiqiandao" translatable="false">已签到</string>
+    <string name="qingjiatime" translatable="false">请假时间:</string>
+    <string name="kechejie" translatable="false">课程节数:</string>
+    <string name="kechejieshu" translatable="false">课程节数</string>
+    <string name="xuan" translatable="false">请选择节数</string>
+    <string name="shifoulixiao" translatable="false">是否离校:</string>
+    <string name="qingjiayuan" translatable="false">请假原因:</string>
+    <string name="suanzeqinjia" translatable="false">选择请假日期</string>
+    <string name="hintqingjia" translatable="false">请输入请假原因...</string>
+    <string name="qingjiashenqing" translatable="false">请假审批</string>
+    <string name="qiandaotixin" translatable="false">签到提醒</string>
+    <string name="diaocha" translatable="false">调查问卷</string>
+    <string name="itrinstrunctor" translatable="false">辅导员点名</string>
+    <string name="qingjiajilu" translatable="false">我的请假记录</string>
+    <string name="weidone" translatable="false">未处理</string>
+    <string name="yidone" translatable="false">已处理</string>
+    <string name="yiback" translatable="false">已撤回</string>
+    <string name="qingjiayuanyi" translatable="false">请假原因:</string>
+    <string name="qingjiashenpi" translatable="false">请假审批</string>
+    <string name="tongyi" translatable="false">同意</string>
+    <string name="jujue" translatable="false">拒绝</string>
+    <string name="chehui" translatable="false">撤销申请</string>
+    <string name="shi" translatable="false">是</string>
+    <string name="fou" translatable="false">否</string>
+    <string name="shenpiren" translatable="false">审批人:</string>
+    <string name="chexiao" translatable="false">撤销请假申请</string>
+    <string name="renti" translatable="false">确认提交请假申请</string>
+    <string name="information" translatable="false">消息</string>
+    <string name="qiandaot" translatable="false">签到提醒</string>
+    <string name="wutis" translatable="false">你有0条未阅读的请假通知</string>
+    <string name="ninyou" translatable="false">无签到提醒</string>
+    <string name="ninyous" translatable="false">你有0条调查问卷通知</string>
+    <string name="lingtiao" translatable="false">你有0条辅导员点名通知</string>
+    <string name="beike" translatable="false">备课充分,节奏安排合理</string>
+    <string name="jilv" translatable="false">课堂纪律好,学生氛围浓厚</string>
+    <string name="jilvfu" translatable="false">讲课生动形象,并富有亲和力</string>
+    <string name="duibu" translatable="false">对不起,您不在有效范围内,暂时不能提交签到</string>
+    <string name="wenti" translatable="false">温馨提示: 验证数字向老师获取</string>
+    <string name="wentis" translatable="false">温馨提示: 打开wifi能提高定位的准确性</string>
+    <string name="innumber" translatable="false">请输入验证数字</string>
+    <string name="survey" translatable="false">问卷调查</string>
+    <string name="weiwanchen" translatable="false">未完成</string>
+    <string name="yiwanchen" translatable="false">已完成</string>
+    <string name="keclass" translatable="false">课程名称:</string>
+    <string name="stuming" translatable="false">老师名称:</string>
+    <string name="fapople" translatable="false">发卷人:</string>
+    <string name="endriqi" translatable="false">截至日期:</string>
+    <string name="qutianxie" translatable="false">去填写</string>
+    <string name="instruction" translatable="false">点名方式说明</string>
+    <string name="dindian" translatable="false">定位点名</string>
+    <string name="shudian" translatable="false">数字点名</string>
+    <string name="wanl" translatable="false">忘记了密码?</string>
+    <string name="wanls" translatable="false">提示:</string>
+    <string name="xuehao" translatable="false">学号:</string>
+    <string name="zongkao" translatable="false">总考勤情况</string>
+    <string name="zongkaos" translatable="false">详情</string>
+    <string name="anke" translatable="false">按课程查看</string>
+    <string name="all" translatable="false">全部</string>
+    <string name="alls" translatable="false">)</string>
+    <string name="zhengchu" translatable="false">正常出勤</string>
+    <string name="yichu" translatable="false">异常出勤</string>
+    <string name="xiuchu" translatable="false">请修改初始密码,并绑定手机</string>
+    <string name="courlo" translatable="false">签到信息:</string>
+    <string name="courlos" translatable="false">课程详情</string>
+    <string name="weijie" translatable="false">节数</string>
+    <string name="weijies" translatable="false">节数</string>
+    <string name="zhaopian" translatable="false">相关照片:</string>
+    <string name="suitime" translatable="false">当前时间:</string>
+    <string name="signnote" translatable="false">签到记录</string>
+    <string name="again" translatable="false">重新提交</string>
+    <string name="signlocation" translatable="false">签到地点:</string>
+    <string name="signtimes" translatable="false">签到时间:</string>
+    <string name="chake" translatable="false">查看考勤</string>
+    <string name="daodi" translatable="false">导员点名</string>
+    <string name="school" translatable="false">校园动态</string>
+    <string name="icon_zhiye" translatable="false">职业测评</string>
+    <string name="icon_dianxin" translatable="false">点点心理</string>
+    <string name="lost" translatable="false">失物招领</string>
+    <string name="choce" translatable="false">从相册中选择</string>
+    <string name="recom" translatable="false">推荐背景</string>
+    <string name="formbg" translatable="false">课程表背景</string>
+    <string name="mineke" translatable="false">我的课程</string>
+    <string name="jiuye" translatable="false">就业</string>
+    <string name="kaolian" translatable="false">练习考试</string>
+    <string name="fanshione" translatable="false">1、老师先设定好点名规则</string>
+    <string name="fanshitwo" translatable="false">2、系统根据学生提交的位置信息,判断学生是否在教师内;并通过老师设置的点名规则
+    和学生提交的签到时间判断学生的考勤状态</string>
+     <string name="fanshithree" translatable="false">3、超出有效范围的学生也可以提交签到,考勤状态会显示"不在教室",老师可对其进行
+     手动更改</string>
+    <string name="fanshifour" translatable="false">2、系统会在每堂课前发给老师一个数字验证码短信,
+    只有输入正确数字验证码的学生才能成功提交签到信息</string>
+    <string name="fanshifive" translatable="false">3、系统根据老师设置的考勤判定规则,通过学生提交签到信息的时间点判断学生的考勤状态</string>
+
+    <string name="xlistview_footer_hint_normal" translatable="false">查看更多</string>
+    <string name="xlistview_footer_hint_ready" translatable="false">松开载入更多</string>
+    <string name="xlistview_header_hint_normal" translatable="false">下拉刷新</string>
+    <string name="xlistview_header_hint_ready" translatable="false">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading" translatable="false">正在加载...</string>
+
+    <string name="yt_webview_release_to_refresh" translatable="false">释放立即刷新</string>
+    <string name="yt_webview_refreshing" translatable="false">正在刷新...</string>
+    <string name="yt_webview_refresh_success" translatable="false">刷新成功</string>
+    <string name="yt_webview_refresh_fail" translatable="false">刷新失败</string>
+
+    <string name="xlistview_header_last_time" translatable="false">上次更新时间：</string>
+    <string name="monday" translatable="false">一</string>
+    <string name="tuesday" translatable="false">二</string>
+
+    <string name="wednesday" translatable="false">三</string>
+
+    <string name="thursday" translatable="false">四</string>
+
+    <string name="friday" translatable="false">五</string>
+
+    <string name="saturday" translatable="false">六</string>
+
+    <string name="sunday" translatable="false">日</string>
+
+    <string name="year" translatable="false">年</string>
+
+    <string name="month" translatable="false">月</string>
+
+    <string name="todays" translatable="false">今天</string>
+
+    <string name="tomorrow" translatable="false">明天</string>
+
+    <string name="t_d_a_t" translatable="false">后天</string>
+    <string name="order_day" translatable="false">\n预订日</string>
+
+
+    <!--新加-->
+    <string name="bottom_home">首页</string>
+    <string name="bottom_eye">就业</string>
+    <string name="bottom_message">消息</string>
+    <string name="bottom_my">我的</string>
+
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="ts">提示</string>
+
+
+    <!--就业相关-->
+    <string name="hrd">职播</string>
+    <string name="yugao">预告</string>
+    <string name="loading_text">加载中...</string>
+    <string name="bottom_empty_hint">sorry 就到这里了</string>
+    <string name="tjzw"><![CDATA[雷达为您综合推荐的岗位是<font color=\"#29c192\">%1$s</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;雷达为您综合推荐的岗位是<font color=\"#29c192\">%2$s</font>]]></string>
+
+    <!--网络请求状态-->
+    <string name="loading">正在加载&#046;&#046;&#046;</string>
+    <string name="net_error">喔，出错了~</string>
+    <string name="no_data">暂无数据~</string>
+    <string name="web_error">服务器出错了~</string>
+    <string name="net_error_go">请连接到网络，然后再试一次</string>
+    <string name="try_again">重新加载</string>
+
+    <string name="erweima_meg">请扫描二维码</string>
+    <string name="permission_hint_content">当前应用缺少必要权限，请打开所需权限</string>
+    <string name="permission_hint">请授予必要权限</string>
+</resources>
